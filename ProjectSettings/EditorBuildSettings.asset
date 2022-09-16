@@ -17,6 +17,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR_mercury.unity
     guid: f5b5f773fdb71f74e9d9723afe4c6a7b
+  - enabled: 1
+    path: Assets/Scenes/AR_venus.unity
+    guid: 6c6d4d1913f480e448b241aabd882cc7
+  - enabled: 1
+    path: Assets/Scenes/AR_mars.unity
+    guid: 0d40cde7f094829428cefb4070c0e71c
+  - enabled: 1
+    path: Assets/Scenes/AR_earth.unity
+    guid: 62fd52fd561abc945a91e68bb99ca9f5
+  - enabled: 1
+    path: Assets/Scenes/AR_jupiter.unity
+    guid: f61e69a18abab8f4fa00348673a6e71d
+  - enabled: 1
+    path: Assets/Scenes/AR_neptune.unity
+    guid: 312c3253629b9354db7bc28d35e5ec4b
+  - enabled: 1
+    path: Assets/Scenes/AR_saturn.unity
+    guid: da0b1253f602d5a4a896dfb03b21f007
+  - enabled: 1
+    path: Assets/Scenes/AR_uranus.unity
+    guid: 703c2399bcc39454b8ccab467901822d
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8edc0e34d73efa44186066269164a8d2, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 70bf809fedf0f724f8e1725fd389fa19, type: 2}
