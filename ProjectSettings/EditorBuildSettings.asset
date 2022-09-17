@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SolAR Menu.unity
     guid: f5b3d3a506d4936408fe2f7b9cec8d16
   - enabled: 1
-    path: Assets/Scenes/AR_scene.unity
+    path: Assets/Scenes/AR_sonnensystem.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
     path: Assets/Scenes/AR_mercury.unity
